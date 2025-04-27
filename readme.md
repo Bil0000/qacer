@@ -1,5 +1,5 @@
 
-# AI-Assisted QA Tool
+# QAcer QA Tool
 
 This tool allows **AI-driven testing of websites** by simulating real user interactions—like scrolling, clicking, and typing—and recording the entire session as a video.
 
@@ -12,8 +12,8 @@ Follow these steps to install and run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Bil0000/qacer
+cd qacer
 ```
 
 ### 2. Create a `.env` file in the root directory
