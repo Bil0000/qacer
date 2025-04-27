@@ -1,0 +1,7 @@
+.env
+session-videos/
+ai-qa-report.md
+ai-test-plan.txt
+package-lock.json
+report.md
+node_modules

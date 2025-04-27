@@ -1,0 +1,20 @@
+{
+  "name": "qa-tester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "marked": "^15.0.11",
+    "openai": "^4.96.0",
+    "playwright": "^1.52.0"
+  }
+}
